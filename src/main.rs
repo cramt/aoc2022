@@ -1,6 +1,7 @@
 mod d1;
 mod d2;
+mod d3;
 
 fn main() {
-    d2::p2::run()
+    d3::p2::run()
 }
