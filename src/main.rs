@@ -4,7 +4,8 @@ mod d3;
 mod d4;
 mod d5;
 mod d6;
+mod d7;
 
 fn main() {
-    d6::p2::run()
+    d7::p2::run()
 }
